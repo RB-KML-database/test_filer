@@ -5,7 +5,7 @@
         <Placemark id="3">
             <name>A Line</name>
             <LineString id="2">
-                <coordinates>24.1751,-19.484083333333334,0.0 -91.79069488166667,41.98073561166667,0.0</coordinates>
+                <coordinates>0,0,0.0 -91.79069488166667,41.98073561166667,0.0</coordinates>
             </LineString>
         </Placemark>
     </Document>
